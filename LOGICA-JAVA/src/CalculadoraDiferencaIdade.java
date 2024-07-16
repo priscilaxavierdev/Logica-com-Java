@@ -3,7 +3,7 @@ public class CalculadoraDiferencaIdade {
         int firstAge = 30;
         int secondAge = 20;
         int ageDifference = firstAge - secondAge;
-        System.out.println("A difernca entre as idades eh: " + ageDifference);
+        System.out.println("A diferença entre as idades eh: " + ageDifference);
     }
 }
 
