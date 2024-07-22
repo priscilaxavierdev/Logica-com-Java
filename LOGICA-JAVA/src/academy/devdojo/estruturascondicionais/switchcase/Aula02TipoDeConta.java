@@ -18,5 +18,4 @@ public class Aula02TipoDeConta {
         }
     }
 }
-//Lembre-se o JAVA diferencia letras maiusculas d
-// e letras minusculas.
+//Lembre-se o JAVA diferencia letras maiusculas de letras minusculas.
