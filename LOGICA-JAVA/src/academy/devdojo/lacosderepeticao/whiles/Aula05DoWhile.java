@@ -20,6 +20,6 @@ public class Aula05DoWhile {
         } while (desejaContinuar == 1);// // Se o usuario digitar 1 o programa volta a rodar, o while so retorna valor se a condição for verdadeira
     }
     }
-}
+
 
 // do while sempre vai ser executado pelo menos uma vez enquanto o while pode ser ou não executado.
