@@ -9,7 +9,7 @@
    
 ##
    
-<p>Neste repositório vou colocar akguns materiais que estou escrevendo para fixar a lógica de programação, assim como exercicios resolvidos.</p>
+<p>Neste repositório vou colocar alguns materiais que estou escrevendo para fixar a lógica de programação, assim como exercicios resolvidos.</p>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE&section=footer" />
   
