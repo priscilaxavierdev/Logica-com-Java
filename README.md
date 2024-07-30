@@ -7,7 +7,8 @@
     <img align="center" alt="Pri-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
    
-##
+## Estrutura do Java
+https://www.notion.so/Estrutura-do-Java-e4be4188ce104226b97d7311a313eecf?pvs=4
    
 <p>Neste repositório vou colocar alguns materiais que estou escrevendo para fixar a lógica de programação, assim como exercicios resolvidos.</p>
   
