@@ -8,7 +8,7 @@ public class Aula02ArraysComFor {
         Scanner scanner = new Scanner(System.in);
         for (int i = 0; i < notas.length; i++) {
             System.out.println("Digite a nota: " + (i + 1)); // como o i inicializa com 0 vai se fazendo uma soma para perguntar ao usuario ate chegar no quarto número.
-            notas[i] = scanner.nextDouble();
+            notas[i] = scanner.nextDouble(); // array que armazena as notas digitadas pelo usuario
         }
         double media = 0;
         double resultado = 0;
